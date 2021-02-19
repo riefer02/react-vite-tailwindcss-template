@@ -14,7 +14,7 @@ npm install
 
 ## Usage
 
-```python
+```bash
 npm run dev
 ```
 
